@@ -23,7 +23,8 @@
 - Install `Node.js`, if you don't already have it installed
 - Find the folder location in your command line
 - Run `npm install` in the command line
-- Make a .env file in the root folder of the downloaded repository. In the file, add `DB_NAME=ecommerce_db`, `DB_USER=*Your MySql username`, `DB_PW=*Your MySql password`, replacing the USER and PW values with your mysql information.
+- Run `npm run seed` to load the seed the database
+- Make a .env file in the root folder of the downloaded repository. In the file, add `DB_NAME=ecommerce_db`, `DB_USER=*Your MySql username`, `DB_PW=*Your MySql password`, replacing the USER and PW values with your mysql information
 - Install `insomnia` to test the routes and see the output from the application
 - Once the installation is complete the application will be ready to use
 
