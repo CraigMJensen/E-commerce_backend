@@ -8,7 +8,7 @@
 
 ## Links
 
--
+- https://watch.screencastify.com/v/Iwo62Rbt63hdYP6kMeHl
 
 ## Table of Contents
 
@@ -33,6 +33,12 @@
 - Run `npm start` in the command line, from the folder location the application is saved
 - Open `insomnia` and use `http://localhost:3001` to run the routes
 - The api routes you can access are `api/categories`, `api/products`, `api/tags`
+
+## Images
+
+- ![]()
+- ![]()
+- ![]()
 
 ## License
 
