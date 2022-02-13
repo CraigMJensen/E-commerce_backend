@@ -15,6 +15,7 @@
 - [Installation](#installation)
 - [Usage](#usage)
 - [License](#license)
+- [Images](#images)
 
 ## Installation
 
