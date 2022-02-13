@@ -36,9 +36,9 @@
 
 ## Images
 
-- ![]()
-- ![]()
-- ![]()
+- ![VSCODE image of sql](images/ecommerce-vscode.png)
+- ![INSOMNIA image](images/ecommerce-insomnia-1.png)
+- ![INSOMNIA image](images/ecommerce-insomnia-2.png)
 
 ## License
 
